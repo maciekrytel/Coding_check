@@ -1,0 +1,10 @@
+.button{
+	-fx-text-fill: white;
+	-fx-background-color: black;
+	-fx-translate-x: 25;
+	-fx-translate-y: 35;
+	-fx-pref-width: 100;
+	-fx-pref-height: 20;
+	-fx-font-size: 12;
+	
+}
